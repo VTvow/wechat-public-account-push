@@ -61,8 +61,8 @@ const USER_CONFIG = {
       name: '小宁',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ovrK55ha2b3EJjVtlxk7QRECg-wc',
-    }
-     horoscopeDate: '01-20',
+      horoscopeDate: '01-20',
+      
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         //{
@@ -86,6 +86,7 @@ const USER_CONFIG = {
         // 结婚纪念日
         //{ keyword: 'marry_day', date: '2022-09-09' },
       ],
+    }
   ],
 
 }
