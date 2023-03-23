@@ -17,6 +17,7 @@ const USER_CONFIG = {
   CITY: '广州',
 
   USERS: [
+	  ///---------------1-----------
     {
       // 想要发送的人的名字
       name: '居居',
@@ -50,10 +51,10 @@ const USER_CONFIG = {
         //{ keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
-  ],
-
-  USERS: [
-	    {
+	  //------------End-----1---------
+	  
+	 ///-------------------------2-------------- 
+	{
 	      // 想要发送的人的名字
 	      name: '小宁',
 	      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
@@ -86,7 +87,8 @@ const USER_CONFIG = {
 	        ////{ keyword: 'marry_day', date: '2022-09-09' },
 	      //],
 	    },
-	  ],
+	  ////////end----------2
+  ],
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   //CALLBACK_TEMPLATE_ID: 'DKVDHPqk-_P_Eby8owy-sj2uDsZd_4HTbUyeuaFMwMc',
