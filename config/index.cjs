@@ -69,20 +69,20 @@ const USER_CONFIG = {
 	         // type: '*生日', name: '居居', year: '1995', date: '10-03',
 	       //},
 	        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-	        //{
-	          //type: '生日', name: '居居', year: '1995', date: '01-20',
-	        //},
+	        {
+	          type: '生日', name: '居居', year: '1995', date: '01-20',
+	        },
 	        {
 	          type: '生日', name: '小宁', year: '1995', date: '01-20',
 	        },
-	        //{
-	          //type: '节日', name: '相识纪念日', year: '2022', date: '06-20',
-	        //},
+	        {
+	          type: '节日', name: '相识纪念日', year: '2022', date: '06-20',
+	        },
 	      ],
 	      // 我们在一起已经有xxxx天了的配置
-	      //customizedDateList: [
+	      customizedDateList: [
 	        // 在一起的日子
-	        //{ keyword: 'love_day', date: '2022-06-20' },
+	        { keyword: 'love_day', date: '2022-06-20' },
 	        // 结婚纪念日
 	        ////{ keyword: 'marry_day', date: '2022-09-09' },
 	      //],
