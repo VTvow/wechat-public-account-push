@@ -85,7 +85,7 @@ const USER_CONFIG = {
 	        { keyword: 'love_day', date: '2022-06-20' },
 	        // 结婚纪念日
 	        ////{ keyword: 'marry_day', date: '2022-09-09' },
-	      //],
+	      ],
 	    },
 	  ////////end----------2
   ],
